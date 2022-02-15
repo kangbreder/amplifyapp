@@ -1,2 +1,2 @@
 # amplifyapp
-Amplify Console CI/CD Demo
+AWS Amplify Console CI/CD Demo
